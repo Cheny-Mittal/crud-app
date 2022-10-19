@@ -1,0 +1,24 @@
+form {
+    margin: 40px;
+    display: flex;
+    justify-content: space-between;
+    .form-wrapper {
+        width: 80%;
+        display: flex;
+        p {
+            margin-right: 16px;
+        }
+    }
+    button {
+        width: 20%;
+        justify-content: end;
+        height: 50px;
+        width: max-content;
+        padding: 0px 50px
+    }
+}
+
+table {
+    width: 95%;
+    margin: 40px;
+}
